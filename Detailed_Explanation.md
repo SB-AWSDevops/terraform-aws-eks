@@ -1,4 +1,4 @@
-Certainly! I'll provide you with a comprehensive explanation of the repository located at [https://github.com/SB-AWSDevops/terraform-aws-eks/tree/main](https://github.com/SB-AWSDevops/terraform-aws-eks/tree/main). This repository contains Terraform code to provision an Amazon EKS (Elastic Kubernetes Service) cluster on AWS. We'll walk through the repository from start to finish, explaining every file and configuration.
+ This repository contains Terraform code to provision an Amazon EKS (Elastic Kubernetes Service) cluster on AWS. 
 
 ---
 
